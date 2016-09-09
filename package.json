@@ -1,6 +1,6 @@
 {
   "name": "webloc-parser",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Allows parsing of .webloc files on any platform.",
   "main": "index.js",
   "dependencies": {
