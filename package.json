@@ -1,13 +1,11 @@
 {
   "name": "webloc-parser",
-  "version": "0.1.0",
-  "description": "Allows parsing of .webloc files on any platform.",
+  "version": "0.1.1",
+  "description": "Allows parsing of Apple XML and binary plist .webloc files.",
   "main": "index.js",
   "dependencies": {
-    "bplist": "0.0.4",
-    "fs": "0.0.1-security",
-    "pify": "^2.3.0",
-    "xml2js": "^0.4.17"
+    "xmldoc": "^0.5.1",
+    "bplist-parser": "^0.1.1"
   },
   "devDependencies": {
     "mocha": "^3.0.2"
